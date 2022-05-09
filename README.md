@@ -11,6 +11,10 @@ I am obsessed with programming, even though still a programming newbie.
 
 Have been learning a bit of web development since ~June, 2021.
 
+[![crt0r's github stats](https://github-readme-stats.vercel.app/api?username=crt0r&count_private=true&show_icons=true&include&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+[![crt0r's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crt0r&langs_count=10&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
 ### GitLab profile
 <a href="https://gitlab.com/crt0r">
     <img src="https://gitlab.com/uploads/-/system/user/avatar/6347804/avatar.png?width=90" alt="crt0r's Gitlab avatar" height="128px">
