@@ -9,7 +9,7 @@
 I'm just a sys- and netadmin college student who is also a programming otaku `┐(￣ω￣;)┌`.
 I am obsessed with programming, even though still a programming newbie.
 
-Have been learning a bit of web development since ~June, 2021.
+Have been learning a bit of web development since ~June 2021.
 
 [![crt0r's github stats](https://github-readme-stats.vercel.app/api?username=crt0r&count_private=true&show_icons=true&include&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -36,7 +36,8 @@ Have been learning a bit of web development since ~June, 2021.
     <img src="img/sufflain-colored-outline-background.png" alt="Sufflain logo" height="128px"
 ></a>
 
-Since May, 2021 I hack on my first real-world open source project - [Sufflain](https://github.com/Sufflain-Open-Source). I have started this web application development because I wasn't satisfied with the UX of my college's site—our students use it mainly to see timetables.
+Since May 2021 I hack on my first real-world open source project - [Sufflain](https://github.com/Sufflain-Open-Source). I have started this web application development because I wasn't satisfied with the UX of my college's site—our students use it mainly to see timetables.
+
 
 ### Super-secret non-released (yet) project
 Recently decided to build a desktop productivity application for the Linux platform. Opted to go with [Tauri](https://tauri.studio/), so now I am also learning a bit of 🦀Rust. As soon as an ability to program in that awesome language emerge, the development will begin.
